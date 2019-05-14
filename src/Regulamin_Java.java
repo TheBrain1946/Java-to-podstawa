@@ -8,7 +8,7 @@ public class Regulamin_Java {
     public static void main(String[] args) {
 
 /*
-        Crtl + Shift + L = Korekta tekstu
+        Crtl + alt + L = Korekta tekstu
         Shift + F6 = Zamiana nazwy w całym kodzie
         Shift + F10 = Uruchomienie ostatniej konifguracji
         Shift + Ctrl + F10 = Odpalanie aktualnej classy
